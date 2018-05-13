@@ -20,7 +20,10 @@ Steps to run the application
     https://docs.mongodb.com/manual/administration/install-community/
 3- Create Database named 'weather' or your own database name but don't forget to rename it in the code
 4- Create Collection named 'forecast' in the weather database.
-5- Run the code and see the results.
+5- Put your API keys at two places
+    5a- In Configuration file (configuration_file.json)
+    5b- In the weather_map.html file in scripts around line number 110.
+6- Run the code and see the results.
 
 References:
 https://docs.mongodb.com
