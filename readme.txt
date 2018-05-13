@@ -22,12 +22,12 @@ Steps to run the application
 4- Create Collection named 'forecast' in the weather database.
 5- Put your API keys at two places
     5a- In Configuration file (configuration_file.json)
-    5b- In the weather_map.html file in scripts around line number 110.
+    5b- In the weather_map.html file in scripts around line number 110
+    If need API keys, you can get it from here: https://home.openweathermap.org/api_keys
 6- Run the code and see the results.
 
 References:
-https://docs.mongodb.com
+https://openweathermap.org/api
+https://docs.mongodb.com/
 https://developers.arcgis.com/
 https://matplotlib.org/
-
-
